@@ -1,0 +1,92 @@
+0
+9
+Administrator 000000
+Visitor 123456
+XiaoMing 134679
+XiaoHong 123789
+XiaoLan 147369
+NewUser 123456
+User2 123456
+User1 123456
+User3 111111
+QSY 1 9
+Administrator 1 4
+A 1 9
+L_copy1 0 0
+L_copy 0 0
+a_copy 0 0
+a_copy1 0 0
+newFile.txt 0 0
+L_copy_copy 0 0
+a_copy_copy 0 0
+a_copy_copy1 0 0
+a_copy_copy2 0 0
+N 0 0
+a.txt 0 0
+b 0 0
+Visitor 1 2
+a 1 1
+md 0 0
+b 1 0
+XiaoMing 1 0
+XiaoHong 1 0
+XiaoLan 1 0
+NewUser 1 0
+User2 1 1
+A 1 0
+User1 1 4
+A 1 1
+a 0 0
+b 0 0
+b_copy1 0 0
+b_copy2 0 0
+User3 1 3
+A 1 1
+a 0 0
+b 0 0
+c 0 0
+L_copy1 3 QSY/Administrator/A/L_copy1/ 0 0
+Hello Wrold!
+This is a good day.
+happy OS.
+L_copy 0 QSY/Administrator/A/L_copy/ 0 0
+a_copy 0 QSY/Administrator/A/a_copy/ 0 0
+a_copy1 0 QSY/Administrator/A/a_copy1/ 0 0
+newFile.txt 0 QSY/Administrator/A/newFile.txt/ 0 0
+L_copy_copy 4 QSY/Administrator/A/L_copy_copy/ 0 0
+Hello Wrold!
+This is a good day.
+happy OS.
+L_copy_copy 0 QSY/Administrator/A/L_copy_copy/ 0 0
+a_copy_copy 0 QSY/Administrator/A/a_copy_copy/ 0 0
+a_copy_copy1 0 QSY/Administrator/A/a_copy_copy1/ 0 0
+a_copy_copy2 0 QSY/Administrator/A/a_copy_copy2/ 0 0
+N 0 QSY/Administrator/N/ 0 0
+a.txt 3 QSY/Administrator/a.txt/ 0 0
+This is a good day.
+happy os.
+what.
+b 2 QSY/Administrator/b/ 0 0
+test4
+test5
+md 0 QSY/Visitor/a/md/ 0 0
+a 2 QSY/User1/A/a/ 0 0
+This Start of new write.
+End of new write.
+b 3 QSY/User1/b/ 0 0
+export to local.
+abcd.
+abcd.
+b_copy1 3 QSY/User1/b_copy1/ 0 0
+export to local.
+abcd.
+abcd.
+b_copy2 3 QSY/User1/b_copy2/ 0 0
+export to local.
+abcd.
+abcd.
+a 0 QSY/User3/A/a/ 0 0
+b 2 QSY/User3/b/ 0 0
+This Start of new write.
+End of new write.
+c 0 QSY/User3/c/ 0 0

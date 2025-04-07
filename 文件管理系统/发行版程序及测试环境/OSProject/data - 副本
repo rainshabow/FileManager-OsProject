@@ -1,0 +1,51 @@
+0
+6
+Administrator 000000
+Visitor 123456
+XiaoMing 134679
+XiaoHong 123789
+XiaoLan 147369
+NewUser 123456
+QSY 1 6
+Administrator 1 2
+A 1 9
+L_copy1 0 0
+L_copy 0 0
+a_copy 0 0
+a_copy1 0 0
+newFile.txt 0 0
+L_copy_copy 0 0
+a_copy_copy 0 0
+a_copy_copy1 0 0
+a_copy_copy2 0 0
+N 0 0
+Visitor 1 2
+a 1 1
+md 0 0
+b 1 0
+XiaoMing 1 0
+XiaoHong 1 0
+XiaoLan 1 0
+NewUser 1 0
+L_copy1 3 QSY/Administrator/A/L_copy1/ 0 0
+Hello Wrold!
+This is a good day.
+happy OS.
+L_copy 0 QSY/Administrator/A/L_copy/ 0 0
+a_copy 0 QSY/Administrator/A/a_copy/ 0 0
+a_copy1 0 QSY/Administrator/A/a_copy1/ 0 0
+newFile.txt 1 QSY/Administrator/A/newFile.txt/ 0 0
+This is a good day.Happy OS.This is a test of final.lin1ksjdhaj
+L_copy_copy 4 QSY/Administrator/A/L_copy_copy/ 0 0
+Hello Wrold!
+This is a good day.
+happy OS.
+This is a copy of L
+a_copy_copy 0 QSY/Administrator/A/a_copy_copy/ 0 0
+a_copy_copy1 0 QSY/Administrator/A/a_copy_copy1/ 0 0
+a_copy_copy2 0 QSY/Administrator/A/a_copy_copy2/ 0 0
+N 1 QSY/Administrator/N/ 0 0
+askdjk
+md 2 QSY/Visitor/a/md/ 0 2
+asd
+sad
